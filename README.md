@@ -1,2 +1,2 @@
 # Design-Patterns-In-Java
-Implemented Design Patterns in Java
+Implementation of various Design Patterns in Java
